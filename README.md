@@ -18,8 +18,8 @@ The resulting brochure includes information about the company's mission, culture
 1. **Clone the repository:**
 
    ```bash
-    git clone https://github.com/your-username/ai-brochure-generator.git
-    cd ai-brochure-generator
+    git clone https://github.com/onyevyerov/brochure-generator.git
+    cd brochure-generator
 
 2. **Create and activate a virtual environment (recommended):**
 
